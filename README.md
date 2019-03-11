@@ -1,4 +1,4 @@
-# Project 1: Movie Trailer Website
+# Project : Movie Trailer Website
 ### by Ambika
 
 Movie trailer website project, part of the Udacity [Full Stack Web Developer
